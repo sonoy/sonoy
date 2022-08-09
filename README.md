@@ -3,7 +3,7 @@
 Full Stack Developer | Backend, Web, Mobile and Desktop Applications
 
 ### Connect with me:
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/sono.js/)
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/dev._.undefined/)
 
 <br />
 
